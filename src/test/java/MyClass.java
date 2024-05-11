@@ -1,5 +1,6 @@
 public class MyClass {
     public static void main(String[] args) {
-        System.out.println();
+        int b = 20;
+        int c = 30;
     }
 }
